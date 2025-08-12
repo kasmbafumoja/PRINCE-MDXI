@@ -64,7 +64,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁PRINCE-MDXI DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁KAS-MDXI DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
