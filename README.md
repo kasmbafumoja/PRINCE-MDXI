@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=PRINCE%20MDXI%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=KAS%20MDXI%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
 
@@ -26,9 +26,9 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a><img src='https://files.catbox.moe/upmwpw.jpg'/></a>
+<a><img src='https://files.catbox.moe/eh4wk2.jpg'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/eh4wk2.jpg'/></a>
 
 ***
 
@@ -39,7 +39,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/Mayelprince/PRINCE-MDXI/fork"><img title="PRINCE-MDXI" src="https://img.shields.io/badge/FORK-PRINCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/kasmbafumoja/PRINCE-MDXI/fork"><img title="PRINCE-MDXI" src="https://img.shields.io/badge/FORK-PRINCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
