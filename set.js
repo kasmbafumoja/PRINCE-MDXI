@@ -17,7 +17,7 @@ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS || "true",
 AUTO_LIKE_EMOJIS: process.env.AUTO_LIKE_EMOJIS || "💛,❤️,💜,🤍,💙", //Input Yours Custom...Can be one Emoji or Multiple Emojis Separated by Commas
 AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
-STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed by prince-mdx", // // Input Yours custom...
+STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed by 𝗸𝗮𝘀 𝗸𝗮𝘀", // // Input Yours custom...
 MODE: process.env.MODE || "public", // Put private or public or inbox or groups
 OWNER_NUMBER: process.env.OWNER_NUMBER || "243994158410", // Only 1 owner Number Here, others Add to sudo numbers...
 OWNER_NAME: process.env.OWNER_NAME || "KAS-MD", // Input Yours custom...(Maintain font for Flow)
@@ -31,7 +31,7 @@ ANTIBAD: process.env.ANTIBAD || "false",
 BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Separated by Comma(will be deleted if ANTIBAD is set to true)
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 📵 No Calls Allowed!_*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗", //  don't change 
+BOT_NAME: process.env.BOT_NAME || "𝗞𝗔𝗦_𝗠𝗗", //  don't change 
 BOT_PIC: process.env.BOT_PIC || "https://raw.githubusercontent.com/Mayelprince/url/main/menun.jpg", //  don't change 
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
@@ -42,7 +42,7 @@ GOODBYE: process.env.GOODBYE || "false",
 AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "false", // Enter value to true for blueticking all messages, or commands for blueticking only commands else false
 AUTO_BLOCK: process.env.AUTO_BLOCK || "333,799", // Add Multiple Country Codes Separated by Comma...
 PRESENCE: process.env.PRESENCE || "online", // Choose one: typing, recording, online, null
-TIME_ZONE: process.env.TIME_ZONE || "Africa/Douala", // Enter yours else leave blank if not sure
+TIME_ZONE: process.env.TIME_ZONE || "Africa/𝗯𝘂𝘁𝗲𝗺𝗯𝗼", // Enter yours else leave blank if not sure
 };
 
 let file = require.resolve(__filename); 
