@@ -2,10 +2,10 @@
   "name": "prince-mdx",
   "version": "3.0.0",
   "description": "I am PRINCE MDX, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
-  "website": "https://files.catbox.moe/ykdtkm.jpeg",
-  "logo": "https://files.catbox.moe/52699c.jpg",
-  "keywords": ["prince-md", "Prince mdx","prince mdxi","PRINCE-MDXI"],
-  "repository": "https://github.com/Mayelprince/PRINCE-MDXI",
+  "website": "https://files.catbox.moe/41y23y.jpg",
+  "logo": "https://files.catbox.moe/eh4wk2.jpg",
+  "keywords": ["KAS-MD", "kas mdx","prince mdxi","TERMUX-MD"],
+  "repository": "https://github.com/kasmbafumoja/PRINCE-MDXI",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -22,7 +22,7 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "PRINCE"
+      "value": "kas"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 237xxxxx",
